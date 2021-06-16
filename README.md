@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Loganio123
+- 👀 I’m interested in developing games through C++ and UE4, and coding through python
+- 🌱 I’m currently learning begginer coding for python
